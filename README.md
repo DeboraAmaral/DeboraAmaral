@@ -12,7 +12,7 @@
   <img align="center" alt="Debs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Debs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Debs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Debs-gif" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/315db01dc9ed5606324cd12a4a274c26.gif">
+  <img align="right" alt="Debs-gif" height="120" style="border-radius:50px;" src="https://i.picasion.com/pic91/315db01dc9ed5606324cd12a4a274c26.gif">
 
   ##
   
