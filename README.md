@@ -1,6 +1,6 @@
 #### ✨ Bem-vindo(a)!! Sou a Debora Amaral!! 🙂
 
-Estou cursando o 1° Semestre de Engenharia de Software na FIAP, trabalho atualmente com freelancers como desenvolvedora WEB, e estou na área faz pouco tempo, mas já me sinto preparada para enfrentar qualquer desafio, sou uma pessoa que adora aprender coisas novas e aprendo rápido, aplico os meus conhecimentos e habilidades em projetos pessoais e também em projetos profissionais.
+Estou cursando o 1° Semestre de Engenharia de Software na FIAP, trabalho atualmente com freelancers como desenvolvedora web, estou na área faz pouco tempo, mas já me sinto preparada para enfrentar qualquer desafio, sou uma pessoa que adora aprender coisas novas e aprendo rápido, aplico os meus conhecimentos e habilidades em projetos pessoais e também em projetos profissionais.
 Estou sempre aberta a novas oportunidades!
 
   ##
