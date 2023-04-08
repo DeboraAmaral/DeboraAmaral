@@ -1,7 +1,6 @@
 #### ✨ Seja muito bem-vindo(a)!! Sou a Debora Amaral!! 🙂
 
-📚 Estou cursando o 1° Semestre de Engenharia de Software na FIAP, sou uma pessoa que adora aprender coisas novas e aprendo rápido, aplico os meus conhecimentos e habilidades em projetos pessoais e também em projetos profissionais.
-Estou sempre aberta a novas oportunidades!! 😉
+📚 Estou cursando o 1° Semestre de Engenharia de Software na FIAP, sou uma pessoa que adora aprender coisas novas e aprendo rápido, aplico os meus conhecimentos e habilidades em projetos pessoais. Estou sempre aberta a novas oportunidades!! 😉
 
   ##
 
